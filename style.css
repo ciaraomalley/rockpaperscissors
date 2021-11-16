@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, #005c97, #363795);
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    font-weight: 600;
+    text-align:center;
+    padding:40px 0;
+    margin:20px;
+}
+
